@@ -11,5 +11,5 @@ Run the following command inside the project:
 
 
 ---
-Author: Mradul Rathore (er.mradulrathore@gmail.com)
+Author: Ritik Jain (ritikjain0706@gmail.com)
 
